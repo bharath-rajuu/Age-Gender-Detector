@@ -10,5 +10,5 @@ Simple Age and Detector Using Machine Learning
 ## To run this model yourself:
 1. Clone this repository
 2. Download the dataset from [here](https://www.kaggle.com/datasets/jangedoo/utkface-new)
-3. Open the [model Jupyter Notebook]()
+3. Open the [Model Jupyter Notebook](https://github.com/bharath-rajuu/Age-Gender_Detector/blob/main/Model.ipynb)
 4. Run this notebook.
